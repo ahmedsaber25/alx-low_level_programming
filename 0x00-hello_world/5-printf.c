@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
 * main - 5-printf.c
-* description - Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,
+* description - Write a C program that prints
+* exactly with proper grammar, but the outcome is a piece of art,
 *
 * Return: Always 0 (Success)
 */
